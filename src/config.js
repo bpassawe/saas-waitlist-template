@@ -32,11 +32,11 @@ export const config = {
 
   // Social Links (optional - leave empty string to hide)
   social: {
-    x: "",
-    facebook: "",
-    youtube: "",
-    linkedin: "",
-    github: "",
+    x: "x.com/yourprofile",
+    facebook: "facebook.com/yourprofile",
+    youtube: "youtube.com/yourchannel",
+    linkedin: "linkedin.com/in/yourprofile",
+    github: "github.com/yourprofile",
   },
 
   // Call to Action
