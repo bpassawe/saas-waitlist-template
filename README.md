@@ -8,21 +8,21 @@ A beautiful, customizable waitlist/coming soon page template for SaaS products, 
 
 **See it in action:** [https://saas-waitlist-template.vercel.app](https://saas-waitlist-template. vercel.app)
 
-Try switching themes, fill out the form, test on mobile! 
+Try switching themes, fill out the form, test on mobile!
 
 ---
 
 [![License](https://img.shields.io/badge/license-Commercial-blue.svg)](LICENSE)
 [![Website](https://img.shields.io/badge/website-blitzpattern.com-green.svg)](https://blitzpattern.com)
 
-## 💡 Purchase & Licensing
+## 💡 Get This Template
 
-**Like this template?** Get a license for your projects:
+**Purchase a license:** [https://blitzpattern.gumroad.com/l/waitlist-template](https://blitzpattern.gumroad.com/l/waitlist-template)
 
-- 🎯 **Personal License** - $29 - One project
-- 🚀 **Commercial License** - $79 - Unlimited projects
+- Personal License: $29 - One project
+- Commercial License: $79 - Unlimited projects
 
-👉 **[Purchase on Gumroad](https://blitzpattern.gumroad.com/l/waitlist-template)**
+Includes lifetime updates and email support!
 
 All purchases include:
 
