@@ -4,6 +4,14 @@
 
 A beautiful, customizable waitlist/coming soon page template for SaaS products, built with vanilla JavaScript and Tailwind CSS v3.
 
+## 🔥 Live Demo
+
+**See it in action:** [https://saas-waitlist-template.vercel.app](https://saas-waitlist-template. vercel.app)
+
+Try switching themes, fill out the form, test on mobile! 
+
+---
+
 [![License](https://img.shields.io/badge/license-Commercial-blue.svg)](LICENSE)
 [![Website](https://img.shields.io/badge/website-blitzpattern.com-green.svg)](https://blitzpattern.com)
 
