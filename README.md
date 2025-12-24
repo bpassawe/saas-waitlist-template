@@ -112,6 +112,19 @@ npm run build
 
 Your production files will be in the `dist/` folder.
 
+## 📚 Documentation
+
+**New to this template?** Start here:
+
+- 🚀 **[Getting Started](docs/GETTING-STARTED.md)** - Complete setup in 15 minutes
+- 🎨 **[Customization Guide](docs/CUSTOMIZATION.md)** - Make it yours
+- 🌐 **[Deployment Guide](docs/DEPLOYMENT.md)** - Go live on Vercel, Netlify, etc.
+- 📧 **[Email Integration](docs/EMAIL-INTEGRATION.md)** - Connect Mailchimp, ConvertKit, etc.
+- 🐛 **[Troubleshooting](docs/TROUBLESHOOTING.md)** - Fix common issues
+- ❓ **[FAQ](docs/FAQ.md)** - Answers to common questions
+
+**Need help?** Email hello@blitzpattern.com
+
 ## 🎨 Customization Guide
 
 ### Change Color Theme

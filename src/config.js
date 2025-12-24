@@ -8,7 +8,7 @@ export const config = {
     "The fastest way to validate your SaaS idea. Launch a professional waitlist page and start collecting emails today.",
 
   // Theme Color (blue, purple, green, pink, orange)
-  primaryColor: "purple",
+  primaryColor: "green",
 
   // Features to Display
   features: [
