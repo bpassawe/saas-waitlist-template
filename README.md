@@ -6,7 +6,7 @@ A beautiful, customizable waitlist/coming soon page template for SaaS products, 
 
 ## 🔥 Live Demo
 
-**See it in action:** [https://saas-waitlist-template.vercel.app](https://saas-waitlist-template. vercel.app)
+**See it in action:** [https://saas-waitlist-template.vercel.app](https://saas-waitlist-template.vercel.app)
 
 Try switching themes, fill out the form, test on mobile!
 
